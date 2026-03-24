@@ -1,8 +1,8 @@
 # SQL-EDA-Pipeline
-this is a pipeline for data cleaning and analysing with help of sql
+This is a pipeline for data cleaning and analysing with help of SQL.
 
 ## Overview
-A command-line pipeline that takes a raw CSV, cleans it with Pandas, and runs SQL analysis on it using SQLite. Built as part of my ML engineering roadmap to practice data wrangling and SQL in a production-style project structure."
+Built to demonstrate a full data pipeline — Pandas cleaning, SQLite querying, and subprocess orchestration — using only Python standard library and Pandas/NumPy.
 
 ## Requirements
 requirments.txt
